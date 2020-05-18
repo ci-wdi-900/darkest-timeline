@@ -9,11 +9,10 @@ Tables aren't something we'll be using a _ton_, because it's not 1998, but they'
 
 ### Setup
 
-We'll be starting this `HTML` file from scratch again, so:
+This time, we won't be using an already-made HTML file, so limber up those html muscles!
 
-* Make a NEW repo on GH, with a README initialized.
-* Create an `index.html` file.
-* Add `html`, `head`, and `body` tags.
+* Create a REPL from scratch (not forked) with HTML/CSS/JavaScript as the language.
+* Open the `index.html` file and give it the full html skeleton: `html`, `head`, and `body`.
 * Put the content outlined below in the `body`!
 
 
@@ -36,9 +35,11 @@ Armed with your timeline, you'll make an `HTML` `<table>` that shows its events,
 * a date and/or time,
 * and a description of the event.
 
-Now here's the tricky part: you're going to make TWO TABLES.
+Please note that you do NOT have to use CSS to make this at all pretty.  You CAN, but do the full project BEFORE you make it beautiful.
 
-They should have the same timeline, but one should present it vertically, and one should present it horizontally.
+**Now here's the tricky part: you're going to make TWO TABLES.**
+
+They should have the EXACT SAME timeline, but one should present it vertically, and one should present it horizontally.
 
 Here is an example of each type of timeline, although you do NOT have to follow the style or content whatsoever:
 
